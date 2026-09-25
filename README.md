@@ -24,7 +24,7 @@ Database Used: MySQL
 ![ADD TASK](screenshots/ADD%20TASK.png)
 
 ### VIEW TASKS
-![VIEW TASKS](screenshots/VIEW%20TASKS.png)
+![VIEW TASK](screenshots/VIEW%20TASK.png)
 
 ### EDIT TASK
 ![EDIT TASK](screenshots/EDIT%20TASK.png)
