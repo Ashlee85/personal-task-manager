@@ -17,3 +17,20 @@ Database Used: MySQL
 - Edit Task
 - Delete Task
 - Update Status
+
+## SCREENSHOTS
+
+### ADD TASK
+![ADD TASK](screenshots/ADD%20TASK.png)
+
+### VIEW TASKS
+![VIEW TASKS](screenshots/VIEW%20TASKS.png)
+
+### EDIT TASK
+![EDIT TASK](screenshots/EDIT%20TASK.png)
+
+### DELETE TASK
+![DELETE TASK](screenshots/DELETE%20TASK.png)
+
+### UPDATE STATUS
+![UPDATE STATUS](screenshots/UPDATE%20STATUS.png)
