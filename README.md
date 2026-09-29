@@ -2,13 +2,18 @@
 
 ## Project Information
 
-Project Code: WST21-PM-2026-SF
+## Project Code
 
-Student Name: Ashlee Carl Reynes
+ WST21-PM-2026-SF
 
-Course & Year: BSIT - 2yr
+## Student Name:
+ Ashlee Carl Reynes
 
-Database Used: MySQL
+## Course & Year
+ BSIT - 2yr
+
+## Database Used
+ MySQL
 
 ## Features
 
@@ -17,6 +22,24 @@ Database Used: MySQL
 - Edit Task
 - Delete Task
 - Update Status
+
+## How the System Works
+
+### 1. Add Task
+The user enters the task name, description, and due date. After submitting the form, the task is saved to the database with a Pending status.
+
+### 2. View Tasks
+The user can view all saved tasks in the task list.
+
+### 3. Edit Task
+The user can select a task and edit its information, such as the task name, description, and due date.
+
+### 4. Update Status
+When the task is finished, the user can update its status from Pending to Completed.
+
+### 5. Delete Task
+The user can delete a task that is no longer needed.
+
 
 ## SCREENSHOTS
 
